@@ -1,0 +1,15 @@
+{
+  "name": "all_in_js",
+  "version": "1.0.2",
+  "description": "a Java script libary that you can use css options in it very easy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehan alavi Majd",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/mehanalavimajd/all_in_js"
+  }
+}
