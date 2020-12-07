@@ -1,6 +1,6 @@
 {
   "name": "all_in_js",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "a Java script libary that you can use css options in it very easy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
